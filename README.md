@@ -13,7 +13,7 @@ FROM THE AUTHOR.
 
 ## To-Do List
 
-- [ ] Build Home Base
+- [x] Build Home Base
 - [ ] Add & Configure Modules &amp; Systems
 - [ ] Build Player Units
 - [ ] Design Training Courses (INF, MOT, CSW, ARTY, OPSEC)
