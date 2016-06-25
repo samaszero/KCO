@@ -15,7 +15,7 @@ FROM THE AUTHOR.
 
 - [x] Build Home Base
 - [ ] Add & Configure Modules &amp; Systems
-- [ ] Build Player Units
+- [x] Build Player Units
 - [ ] Design Training Courses (INF, MOT, CSW, ARTY, OPSEC)
 
 
